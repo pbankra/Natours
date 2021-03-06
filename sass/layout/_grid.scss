@@ -19,4 +19,7 @@
 		width: calc((100% - 3* #{$horizontal-gutter})/4);
 		
 	}
+	.col-1-of-3{
+		width:calc((100% - 2* #{$horizontal-gutter})/3);
+	}
 }
