@@ -1,0 +1,38 @@
+
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "bracket-pair-colorizer-2.colors": [
+
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ],
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "liveSassCompile.settings.autoprefix": [],
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.excludeList": [
+        
+
+
+        "**/node_modules/**",
+        ".vscode/**"
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "remimarsal.prettier-now"
+    },
+    "liveSassCompile.settings.watchOnLaunch": true,
+    "liveSassCompile.settings.compileOnWatch": false,
+    
+}
